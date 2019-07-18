@@ -4,8 +4,8 @@ Now we will analys the data and draw as many inferences as possible.
 But Major focus of the analysis is on the lines of - 
 
 1. Treating missing values
-2. Finding max and min temperatures of each freezer.
-3. Finding daily average of door open duration per freezer.
+2. Max and min temperatures of each freezer.
+3. Door open duration per freezer.
 4. Classifying freezers operational health.
 
 After this project you will be well versed in Python programming, Data understanding, Data preperation, Clustering.
